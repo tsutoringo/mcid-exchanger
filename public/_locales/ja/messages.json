@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "MCID Exchanger"
+  },
+  "extDesc": {
+    "message": "MCIDとUUIDを相互変換します"
+  }
+}
