@@ -1,4 +1,5 @@
 # mcid-exchanger
+Minecraft IDと UUIDを相互変換するためのツールです。
 
 ## Project setup
 ```
