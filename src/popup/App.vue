@@ -49,7 +49,6 @@ export default {
 		}
 	
 		const waitStop = (e, ms, func) => {
-			console.log(e);
 			if (queue.get(e.target) === undefined) {
 				queue.set(e.target, setTimeout(() => {
 					queue.delete(e.target);
